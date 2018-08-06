@@ -1,6 +1,6 @@
 # Design Roles
 
-## Graduate Experience Designer
+## Graduate Designer
 > I am a committed student of Readifarian values.
 
 #### I create good quality designs that can be understood and developed into software products.
@@ -12,7 +12,7 @@
 - I am learning how to create and test prototypes.
 - I am learning how to articulate ideas into design artefacts.
 - I am learning how to communicate with the team.
-- I am becoming proficient with my tools and the core UX principles used by our team, furthermore I am aware of the [range of design skillsets that make up 'Experience Design'](https://readify.sharepoint.com/:x:/s/Innovation&Design/EUfX82ArdU1HkklNp9GUp6MBYZ6H_av7ZHuhBxvVUjJL4Q?e=l3oDyv)
+- I am becoming proficient with my tools and the core UX principles used by our team, furthermore I am aware of the [range of design skillsets that make up 'Experience Design'](https://readify.sharepoint.com/:x:/s/Innovation&Design/EUcQG2I3_UlGr1yx_MEd07oBFj7kUcvS3DH2h6zppTsVkg?e=hdewKQ)
 - I have the ability to understand and pickupup processes and techniques when instructuted.
 - I have a basic understanding of utilisation and budgets.  
 
@@ -33,7 +33,7 @@
 - I try to develop a friendly and professional rapport with my customer and their team members.
 - My contributions to team discussions are net-positive, informative and helpful.
 
-## Experience Designer
+## Designer
 > I am a valuable, enthusiastic and net-positive member of a Readify team.
 
 #### I create customer centric outcomes by working closely with customers, the business, and development teams.
@@ -53,7 +53,7 @@
 #### I am recognised by my desire to learn and my motivation to improve.
 - I am learning, maybe through a variety of ways like reading books, reviewing designs and prototypes, building and testing ideas, undertaking certifications, watching online courses, attending conferences or user group meetings/ meetups.
 - I am discussing the things I'm learning about or experimenting on with my teammates, maybe even collaborating on the experience.
-- I take my PD seriously and realise it is valuable to both myself and to Readify. The [skills curve](https://readify.sharepoint.com/:x:/s/Innovation&Design/EUfX82ArdU1HkklNp9GUp6MBYZ6H_av7ZHuhBxvVUjJL4Q?e=l3oDyv) is a useful framework for this discussion.
+- I take my PD seriously and realise it is valuable to both myself and to Readify. The [skills curve](https://readify.sharepoint.com/:x:/s/Innovation&Design/EUcQG2I3_UlGr1yx_MEd07oBFj7kUcvS3DH2h6zppTsVkg?e=hdewKQ) is a useful framework for this discussion.
 - I reach out to my peers and leadership group to develop my PD plan.
 - I am a self-managing team member who is continuously learning and embracing agile methodologies.
 - I am applying lean & agile practices in my day to day work, and beginning to understand why they are important to software development.
@@ -69,7 +69,7 @@
 - I go out of my way develop a friendly and professional rapport with my customer and their team members.
 - My contributions to team discussions are net-positive, informative and helpful.
 
-## Senior Experience Designer
+## Senior Designer
 > I am a highly sought-after member of a Readify team with a proven record of delivering high-quality outcomes that balance the needs of the client, the (Readify) Delivery Team, and the goals of the engagement.
 
 #### I am trusted to explore and define meaningful problems to solve, and am able to deliver relevant solutions as part of a small team, in low to medium levels of complexity.
@@ -112,7 +112,7 @@
 - I am actively introspective and take time to work on my personal and professional development.
 - I happily take responsibility for my own mistakes and I learn from the mistakes of others.
 
-## Senior Experience Design Consultant
+## Senior Consultant
 > I am a well-rounded researcher, designer, problem solver and leader of people. I represent the value Readify brings to the market.
 
 #### I am trusted to lead a small team (of up to 3) to ship a full product from idea to production with limited supervision.
@@ -140,7 +140,7 @@
 - I am sharing my on-the-job learning and experiences with others so they can be more effective in their roles.
 - I am known as someone who looks for opportunities to invest into the Readify teams in my state.
 
-## Lead Experience Design Consultant
+## Lead Consultant
 > I am trusted to autonomously lead people through high-risk engagements with a proven record of delivering projects from inception to their successful completion.
 
 #### I am becoming a respected and trusted leader of people.
